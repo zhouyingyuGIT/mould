@@ -1,0 +1,155 @@
+html,body,#box,.item{
+    width: 100%;
+    height: 100%;
+    font-size: 12px;
+}
+.font_color{
+    background: #000;
+    color: #fff;
+}
+.item1_text{
+    width: 50%;
+    height: 100%;
+    position: relative;
+    margin: 0px auto;
+    font-size: 2.4em;
+    line-height: 1.5em;
+    text-align: left;
+}
+#xs1{
+    position: fixed;
+    top: 10px;
+    right: -2px;
+    width: 120px;
+    height: 42px;
+    border-radius: 100px;
+    background: #2e6da4;
+    color: #fff;
+    line-height: 42px;
+    font-size: 24px;
+    text-align: center;
+    z-index: 9999;
+}
+.item1_imgBox1 img{
+    max-width: 100%;
+    max-height: 100%;
+}
+.item1_imgBox2 img{
+    max-width: 50%;
+    max-height: 50%;
+    cursor: pointer;
+}
+#item2{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+}
+.item2_box{
+    width: 1000px;
+    height: 500px;
+}
+.item2_topic{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    height: 300px;
+}
+.item2_ti{
+    width: 100%;
+    height: 100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding: 0px 56px;
+    background-size:100% 100%;
+    font-size: 28px;
+    margin: 0px auto;
+    border-radius: 5px;
+}
+.item2_ti img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.item2_ans_box{
+    display: flex;
+    display: -webkit-flex;
+    flex-direction:row;
+    width: 100%;
+    height: 200px;
+    margin: 0px auto;
+    align-items:center;
+    justify-content:center;
+}
+.item2_fiex{
+    flex: 1;
+    height: 80%;
+    display: flex;
+    display: -webkit-flex;
+    align-items: center;
+    justify-content: center;
+}
+.item2_item{
+    width: 90%;
+    height: 90%;
+    position: relative;
+    margin: 0px auto;
+    border-radius: 100%;
+}
+.item2_item div{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    font-size: 24px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    z-index: 999;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.item2_set div{
+    height:100%;
+    width:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size: 28px;
+}
+.item2_set img{
+    max-height:100%;
+    max-width:100%
+}
+
+#topic div{
+    height: 100%;
+    width: 100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+#topic img{
+    max-height:100%;
+    max-width:100%
+}
+
+.op{
+    opacity: 1;
+}
+#reward{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 1000;
+    font-size: 24px;
+}
+.reward_item{
+    position: absolute;
+    bottom: 4px;
+}
+.div_flex{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+}
