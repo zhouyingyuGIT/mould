@@ -65,7 +65,7 @@
                     <input id="input1" type="checkbox"><span id="bTime"></span>
                 </label>
             </div>
-            <div class="item1_text item1_imgBox1">
+            <div class="item1_text item1_imgBox1 font_size">
                 <div style="position: relative;top: 30%;text-indent: 2em;">
                     <%=ots.get(0).getInstruction() %>
                 </div>
@@ -74,7 +74,7 @@
         <div id="item2" class="item hide item2">
             <div class="item item2_box">
                 <div class="item2_topic">
-                    <div id="topic" class="item2_ti">
+                    <div id="topic" class="item2_ti font_size">
                     </div>
                 </div>
                 <div class="item2_ans_box" style="">
@@ -331,15 +331,16 @@
         function nextTopicFun() {
             $("#reward").removeClass("hide");
             data_index++;
-            if(data_number<=data_index){
-                endFun();
-                clearInterval(timer);
-                timer=null;
-                return;
-            }else {
-                topicFun(data_index);
-            }
+
             timer1=setInterval(function () {
+                if(data_number<=data_index){
+                    endFun();
+                    clearInterval(timer);
+                    timer=null;
+                    return;
+                }else {
+                    topicFun(data_index);
+                }
                 $("#item2").removeClass("op");
                 $("#reward_img").attr("src"," ");
                 $("#reward").addClass("hide");
@@ -409,7 +410,7 @@
                         time1=300;
                         $("#reward_item").addClass("hide")
                     }else {
-                        time1=1000;
+                        time1=2000;
                         $("#reward_item").removeClass("hide")
                     }
                     if(!mouldTime){
