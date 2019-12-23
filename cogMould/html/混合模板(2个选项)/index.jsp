@@ -7,7 +7,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>混合模板(4个选项)</title>
+    <title>混合模板(2个选项)</title>
     <link rel="stylesheet" href="/lattice/css/bootstrap-3.3.1.min.css">
     <link rel="stylesheet" href="index.css">
     <SCRIPT src="/lattice/js/Statistics/Statistics.js" type=text/javascript></SCRIPT>
@@ -396,7 +396,7 @@
             var e = event || window.event;
             var k = e.keyCode || e.which;
 
-            if(k==32){
+            if(k===32){
                 if(spkey){
                     spkey=false;
                     mouldTime=$("#input1[type='checkbox']").is(':checked');
@@ -422,6 +422,19 @@
                         time1=500;
                     }
                     beginTime=new Date().getTime();
+                }
+            }
+            if(k===81){
+                if(data_click){
+                    data_click=false;
+                    keyFun("Q")
+                }
+
+            }
+            if(k===80){
+                if(data_click){
+                    data_click=false;
+                    keyFun("P")
                 }
             }
         });

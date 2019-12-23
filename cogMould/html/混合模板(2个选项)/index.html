@@ -289,8 +289,8 @@
         $(document).keydown(function (event) {
             var e = event || window.event;
             var k = e.keyCode || e.which;
-
-            if(k==32){
+            console.log(k);
+            if(k===32){
                 if(spkey){
                     spkey=false;
                     mouldTime=$("#input1[type='checkbox']").is(':checked');
@@ -316,6 +316,19 @@
                         time1=500;
                     }
                     beginTime=new Date().getTime();
+                }
+            }
+            if(k===81){
+                if(data_click){
+                    data_click=false;
+                    keyFun("Q")
+                }
+
+            }
+            if(k===80){
+                if(data_click){
+                    data_click=false;
+                    keyFun("P")
                 }
             }
         });
