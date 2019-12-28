@@ -1,50 +1,11 @@
-<%@ page contentType="text/html; charset=UTF-8" %>
-<%@ page language="java" import="com.lattice.entity.*" %>
-<%@ page language="java" import="com.lattice.dao.*,java.util.*" %>
-<%@ page import="javax.servlet.jsp.jstl.fmt.LocaleSupport" %>
-<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt" %>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>混合模板(2个选项)</title>
-    <link rel="stylesheet" href="/lattice/css/bootstrap-3.3.1.min.css">
+    <title>混合模板(3个选项)</title>
+    <link rel="stylesheet" href="../../css/bootstrap-3.3.1.min.css">
     <link rel="stylesheet" href="index.css">
-    <SCRIPT src="/lattice/js/Statistics/Statistics.js" type=text/javascript></SCRIPT>
-    <script src="/lattice/js/oneui/opes_post_result_util.js"></script>
 </head>
-<%
-    Users u=(Users)request.getSession().getAttribute("cu");
-    int uid=u.getUserid();
-    String realname=u.getRealName();
-    int taskid=Integer.parseInt(request.getParameter("taskid"));
-    String lan=request.getParameter("lan");
-    String targetpagename=request.getParameter("targetpagename");
-
-    int projectid=0;
-    if (!(request.getParameter("projectid")==null)) {
-        projectid=Integer.parseInt(request.getParameter("projectid"));
-    }
-
-    int codematerial=0;
-    if (!(request.getParameter("codematerial")==null)) {
-        codematerial=Integer.parseInt(request.getParameter("codematerial"));
-    }
-
-    int sumitcoids=u.getCoid();
-
-
-    Vector
-            <OPES_Task> ots=OPES_TaskDAO.getOPES_aTask(Integer.parseInt(request.getParameter("taskid")),lan);
-    if (ots.size()==0)
-    {
-        response.sendRedirect("/lattice/"+targetpagename);
-        return;
-    }
-    ots.get(0).setProjectid(Integer.parseInt(request.getParameter("projectid")));
-    request.getSession().setAttribute("ot",ots.get(0));
-
-%>
 <body>
 <div id="box">
     <div id="xs" class="xianshi">
@@ -72,12 +33,10 @@
                 <input id="input1" type="checkbox"><span id="bTime"></span>
             </label>
         </div>
-        <div class="item1_text item1_imgBox1" style="">
-            <!--<img src="yun.png" alt="">-->
+        <div class="item1_text item1_imgBox1">
             <div style="position: relative;top: 20%;">
-                <span id="name"><%=realname %></span><span id="respectfully"></span><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                <span><%=ots.get(0).getInstruction() %></span>
-            </div>
+                <span id="name"></span><span id="respectfully"></span><br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <span></span></div>
 
 
         </div>
@@ -108,6 +67,15 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="item2_fiex" style="">
+                    <div class="item2_item">
+                        <div data-data="" class="item2_set" id="item2_C">
+
+                        </div>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>
@@ -143,11 +111,10 @@
     </div>
 </div>
 </body>
-<script src="/lattice/js/jquery.3.4.1.js"></script>
-<script src="/lattice/js/rank.js"></script>
-<script src="/lattice/js/bootstrap.min.3.3.1.js"></script>
-<script src="/lattice/js/echarts.min.js"></script>
-<script type="text/javascript" src="/lattice/js/oneui/common_utils.js"></script>
+<script src="../../js/jquery.3.4.1.js"></script>
+<script src="../../js/rank.js"></script>
+<script src="../../js/bootstrap.min.3.3.1.js"></script>
+<script src="../../js/echarts.min.js"></script>
 <script>
     $(function () {
         var data=[
@@ -183,6 +150,7 @@
             /*border-radius:100%;background:#ff6700;*/
             $("#item2_A").text(" ");
             $("#item2_B").text(" ");
+            $("#item2_C").text(" ");
             $("#topic").text(" ");
             $("#item2_A").attr("data-data",data[data_index].A);
             if(data[data_index].ATAU=="true"){
@@ -204,6 +172,16 @@
                     '<img src="'+data[data_index].BTU+'" alt="">'
                 )
             }
+            $("#item2_C").attr("data-data",data[data_index].C);
+            if(data[data_index].CTAU=="true"){
+                $("#item2_C").append(
+                    '<div>'+data[data_index].CTU+'</div>'
+                )
+            }else {
+                $("#item2_C").append(
+                    '<img src="'+data[data_index].CTU+'" alt="">'
+                )
+            }
 
             if(data[data_index].TAU=="true"){
                 console.log(data[data_index].TAU);
@@ -219,11 +197,11 @@
         }
         function textFun(ans, ans1) {
             if(ans == "Q"){
-                ansText.push(data[data_index].BTU);
-                ansTAUArr.push(data[data_index].BTAU);
+                ansText.push(data[data_index].QTU);
+                ansTAUArr.push(data[data_index].QTAU);
             }else if(ans=="P"){
-                ansText.push(data[data_index].ATU);
-                ansTAUArr.push(data[data_index].ATAU);
+                ansText.push(data[data_index].PTU);
+                ansTAUArr.push(data[data_index].PTAU);
             }else if(ans=="A"){
                 ansText.push(data[data_index].ATU);
                 ansTAUArr.push(data[data_index].ATAU);
@@ -244,11 +222,11 @@
                 ansTAUArr.push(data[data_index].FTAU);
             }
             if(ans1 == "Q"){
-                buttonsetText.push(data[data_index].BTU);
-                xtauArr.push(data[data_index].BTAU);
+                buttonsetText.push(data[data_index].QTU);
+                xtauArr.push(data[data_index].QTAU);
             }else if(ans1=="P"){
-                buttonsetText.push(data[data_index].ATU);
-                xtauArr.push(data[data_index].ATAU);
+                buttonsetText.push(data[data_index].PTU);
+                xtauArr.push(data[data_index].PTAU);
             }else if(ans1=="A"){
                 buttonsetText.push(data[data_index].ATU);
                 xtauArr.push(data[data_index].ATAU);
@@ -278,13 +256,13 @@
             $("#item2").removeClass("hide");
             $("#xs1").text(maxtime+"秒");
             if(!mouldTime){
-                timer = setInterval(function () {
-                    CountDown();
-                }, 1000);
-            }else {
-                type4Num="99";
-                time1=500;
-            }
+            timer = setInterval(function () {
+                CountDown();
+            }, 1000);
+        }else {
+            type4Num="99";
+            time1=500;
+        }
             beginTime=new Date().getTime();
         });
         $(".item2_set").on("click",function () {
@@ -378,10 +356,10 @@
                 }
                 $("#topic_result").append(
                     '<tr>' +
-                    '<td class="tableTd">'+topicCon+'</td>' +
-                    '<td class="tableTd">'+ansCon+'</td>' +
-                    '<td class="tableTd">'+buttonsetCon+'</td>' +
-                    '<td class="tableTd">'+timeset[i]+'</td>' +
+                        '<td class="tableTd">'+topicCon+'</td>' +
+                        '<td class="tableTd">'+ansCon+'</td>' +
+                        '<td class="tableTd">'+buttonsetCon+'</td>' +
+                        '<td class="tableTd">'+timeset[i]+'</td>' +
                     '</tr>'
                 )
             }
@@ -407,33 +385,8 @@
             }
         }
         $("#out").on("click",function () {
-            post_result();
+            alert("结束");
         });
-        function post_result() {
-            // sumscore,meanscore,meanart;
-            var opes_result_data = {};
-            opes_result_data.taskid =<%= taskid %>;
-            opes_result_data.sumitcoids =<%= sumitcoids %>;
-            opes_result_data.targetpagename = "<%=targetpagename%>";
-            opes_result_data.codematerial =<%= codematerial %>;
-            opes_result_data.uid =<%= uid %>;
-            opes_result_data.lan = "<%=lan%>";
-            opes_result_data.projectid =<%= projectid %>;
-            opes_result_data.duration = 0;
-            opes_result_data.timeaverage = Math.round(0);
-            opes_result_data.type4set = type4set.join(";");
-            opes_result_data.stimidset = stimidset.join(";");
-            opes_result_data.correctanswerset = correctanswerset.join(";");
-            opes_result_data.time = "0";
-            opes_result_data.level = "0";
-            opes_result_data.timeset = timeset.join(";");
-            opes_result_data.radioset = "";
-            opes_result_data.buttonset = buttonset.join(";");
-            opes_result_data.commentset = commentset.join(";");
-            opes_result_data.numset = "";
-            opes_post_result_util_js_opes_post_result(opes_result_data);
-            return;
-        }
     })
 </script>
 </html>

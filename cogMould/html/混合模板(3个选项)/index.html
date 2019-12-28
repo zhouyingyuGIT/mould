@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>混合模板(2个选项)</title>
+    <title>混合模板(3个选项)</title>
     <link rel="stylesheet" href="../../css/bootstrap-3.3.1.min.css">
     <link rel="stylesheet" href="index.css">
 </head>
@@ -27,7 +27,7 @@
             </label>
         </div>
         <div class="item1_text item1_imgBox1 font_size">
-            <div style="position: relative;top: 30%;text-indent: 2em;">
+            <div class="" style="position: relative;top: 30%;text-indent: 2em;">
                 指导语指导语指导语指导语指导语指导语指导语指导语指导语指导语指导语指导语
             </div>
         </div>
@@ -50,6 +50,14 @@
                 <div class="item2_fiex" style="">
                     <div class="item2_item">
                         <div data-data="" class="item2_set" id="item2_B">
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="item2_fiex" style="">
+                    <div class="item2_item">
+                        <div data-data="" class="item2_set" id="item2_C">
 
                         </div>
                     </div>
@@ -136,9 +144,9 @@
             {"ID":"68","ans":"D","TU":"一个正方形花坛的周长是36米，它的边长是？","TAU":"true","A":"A","ATU":"6米","ATAU":"true","B":"B","BTU":"24米","BTAU":"true","C":"C","CTU":"12米","CTAU":"true","D":"D","DTU":"9米","DTAU":"true"}
         ];
         var data2=[
-            {"ID":"1","ans":"A","TU":"一个长方形的宽是2厘米，长是宽的3倍，长方形的面积是多少平方厘米？","TAU":"true","A":"A","ATU":"12","ATAU":"true","B":"B","BTU":"6","BTAU":"true","C":"C","CTU":"5","CTAU":"true","D":"D","DTU":"10","DTAU":"true"},
-            {"ID":"2","ans":"A","TU":"用一根长30厘米的铁丝，围成一个长为10厘米的长方形．这个长方形的面积为多少平方厘米？","TAU":"true","A":"A","ATU":"50","ATAU":"true","B":"B","BTU":"200","BTAU":"true","C":"C","CTU":"300","CTAU":"true","D":"D","DTU":"250","DTAU":"true"}
-         ];
+            {"ID":"67","ans":"D","TU":"边长4米的正方形，周长是？","TAU":"true","A":"A","ATU":"4平方米","ATAU":"true","B":"B","BTU":"32米","BTAU":"true","C":"C","CTU":"16平方米","CTAU":"true","D":"D","DTU":"16米","DTAU":"true"},
+            {"ID":"68","ans":"D","TU":"一个正方形花坛的周长是36米，它的边长是？","TAU":"true","A":"A","ATU":"6米","ATAU":"true","B":"B","BTU":"24米","BTAU":"true","C":"C","CTU":"12米","CTAU":"true","D":"D","DTU":"9米","DTAU":"true"}
+        ];
         var taskid1="正式任务ID",taskid2="练习任务ID";
         var maxtime=100;
         var data=[];
@@ -153,6 +161,7 @@
         function topicFun(data_index){
             $("#item2_A").text(" ");
             $("#item2_B").text(" ");
+            $("#item2_C").text(" ");
             $("#topic").text(" ");
             $("#item2_A").attr("data-data",data[data_index].A);
             if(data[data_index].ATAU=="true"){
@@ -172,6 +181,16 @@
             }else {
                 $("#item2_B").append(
                     '<img src="'+data[data_index].BTU+'" alt="">'
+                )
+            }
+            $("#item2_C").attr("data-data",data[data_index].C);
+            if(data[data_index].CTAU=="true"){
+                $("#item2_C").append(
+                    '<div>'+data[data_index].CTU+'</div>'
+                )
+            }else {
+                $("#item2_C").append(
+                    '<img src="'+data[data_index].CTU+'" alt="">'
                 )
             }
 
@@ -232,11 +251,9 @@
                     clearInterval(timer);
                     timer=null;
                     return;
-                }else {
-                    topicFun(data_index);
                 }
+                topicFun(data_index);
                 $("#item2").removeClass("op");
-                $("#reward_img").attr("src"," ");
                 $("#reward").addClass("hide");
                 data_click=true;
                 beginTime=new Date().getTime();
@@ -260,6 +277,15 @@
                 timer=null;
             }
         }
+        function pushArr(array) {
+            $("#xs1").text(maxtime+"秒");
+            for (var i = array.length - 1; i > 0; i--) {
+                var j = Math.floor(Math.random() * (i + 1));
+                var temp = array[i];
+                array[i] = array[j];
+                array[j] = temp;
+            }
+        }
         function taskidFun(taskid) {
             if(taskid === taskid1){
                 data=data1;
@@ -276,21 +302,12 @@
             var r = window.location.search.substr(1).match(reg);
             if (r != null) return unescape(r[2]); return null;
         }
-        function pushArr(array) {
-            $("#xs1").text(maxtime+"秒");
-            for (var i = array.length - 1; i > 0; i--) {
-                var j = Math.floor(Math.random() * (i + 1));
-                var temp = array[i];
-                array[i] = array[j];
-                array[j] = temp;
-            }
-        }
 
         $(document).keydown(function (event) {
             var e = event || window.event;
             var k = e.keyCode || e.which;
-            console.log(k);
-            if(k===32){
+
+            if(k==32){
                 if(spkey){
                     spkey=false;
                     mouldTime=$("#input1[type='checkbox']").is(':checked');
@@ -316,19 +333,6 @@
                         time1=500;
                     }
                     beginTime=new Date().getTime();
-                }
-            }
-            if(k===81){
-                if(data_click){
-                    data_click=false;
-                    keyFun("Q")
-                }
-
-            }
-            if(k===80){
-                if(data_click){
-                    data_click=false;
-                    keyFun("P")
                 }
             }
         });

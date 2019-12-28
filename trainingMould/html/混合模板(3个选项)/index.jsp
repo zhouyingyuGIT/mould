@@ -7,7 +7,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>混合模板(2个选项)</title>
+    <title>混合模板(3个选项)</title>
     <link rel="stylesheet" href="/lattice/css/bootstrap-3.3.1.min.css">
     <link rel="stylesheet" href="index.css">
     <SCRIPT src="/lattice/js/Statistics/Statistics.js" type=text/javascript></SCRIPT>
@@ -108,6 +108,14 @@
                         </div>
                     </div>
                 </div>
+
+                <div class="item2_fiex" style="">
+                    <div class="item2_item">
+                        <div data-data="" class="item2_set" id="item2_C">
+
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -183,6 +191,7 @@
             /*border-radius:100%;background:#ff6700;*/
             $("#item2_A").text(" ");
             $("#item2_B").text(" ");
+            $("#item2_C").text(" ");
             $("#topic").text(" ");
             $("#item2_A").attr("data-data",data[data_index].A);
             if(data[data_index].ATAU=="true"){
@@ -204,6 +213,16 @@
                     '<img src="'+data[data_index].BTU+'" alt="">'
                 )
             }
+            $("#item2_C").attr("data-data",data[data_index].C);
+            if(data[data_index].CTAU=="true"){
+                $("#item2_C").append(
+                    '<div>'+data[data_index].CTU+'</div>'
+                )
+            }else {
+                $("#item2_C").append(
+                    '<img src="'+data[data_index].CTU+'" alt="">'
+                )
+            }
 
             if(data[data_index].TAU=="true"){
                 console.log(data[data_index].TAU);
@@ -219,11 +238,11 @@
         }
         function textFun(ans, ans1) {
             if(ans == "Q"){
-                ansText.push(data[data_index].BTU);
-                ansTAUArr.push(data[data_index].BTAU);
+                ansText.push(data[data_index].QTU);
+                ansTAUArr.push(data[data_index].QTAU);
             }else if(ans=="P"){
-                ansText.push(data[data_index].ATU);
-                ansTAUArr.push(data[data_index].ATAU);
+                ansText.push(data[data_index].PTU);
+                ansTAUArr.push(data[data_index].PTAU);
             }else if(ans=="A"){
                 ansText.push(data[data_index].ATU);
                 ansTAUArr.push(data[data_index].ATAU);
@@ -244,11 +263,11 @@
                 ansTAUArr.push(data[data_index].FTAU);
             }
             if(ans1 == "Q"){
-                buttonsetText.push(data[data_index].BTU);
-                xtauArr.push(data[data_index].BTAU);
+                buttonsetText.push(data[data_index].QTU);
+                xtauArr.push(data[data_index].QTAU);
             }else if(ans1=="P"){
-                buttonsetText.push(data[data_index].ATU);
-                xtauArr.push(data[data_index].ATAU);
+                buttonsetText.push(data[data_index].PTU);
+                xtauArr.push(data[data_index].PTAU);
             }else if(ans1=="A"){
                 buttonsetText.push(data[data_index].ATU);
                 xtauArr.push(data[data_index].ATAU);
