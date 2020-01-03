@@ -2,516 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c16950f-5b27-41e7-83b5-ed40a748305c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/混合模板.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/101.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/102.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/103.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/104.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/105.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/106.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/107.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/108.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/109.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/110.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/111.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/113.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/114.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/115.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/116.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/117.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/118.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/119.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/120.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/121.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/122.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/123.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/124.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/125.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/126.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/127.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/129.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/130.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/131.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/132.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/133.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/134.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/135.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/136.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/137.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/138.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/139.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/140.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/141.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/142.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/143.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/145.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/146.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/147.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/148.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/149.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/151.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/152.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/153.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/154.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/155.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/156.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/157.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/158.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/159.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/160.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/161.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/162.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/163.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/164.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/165.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/166.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/167.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/168.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/169.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/170.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/171.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/172.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/173.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/174.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/175.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/176.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/177.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/178.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/179.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/180.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/181.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/182.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/183.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/184.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/185.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/186.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/187.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/188.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/189.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/190.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/bj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T1-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T1-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T1-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T1-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T1-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T10-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T10-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T10-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T10-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T10-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T11-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T11-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T11-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T11-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T11-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T12-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T12-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T12-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T12-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T12-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T13-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T13-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T13-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T13-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T13-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T14-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T14-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T14-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T14-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T14-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T15-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T15-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T15-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T15-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T15-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T16-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T16-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T16-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T16-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T16-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T17-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T17-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T17-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T17-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T17-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T18-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T18-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T18-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T18-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T18-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T19-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T19-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T19-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T19-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T19-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T2-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T2-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T2-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T2-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T2-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T20-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T20-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T20-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T20-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T20-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T21-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T21-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T21-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T21-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T21-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T22-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T22-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T22-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T22-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T22-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T23-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T23-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T23-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T23-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T23-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T24-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T24-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T24-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T24-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T24-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T25-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T25-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T25-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T25-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T25-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T26-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T26-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T26-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T26-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T26-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T27-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T27-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T27-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T27-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T27-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T28-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T28-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T28-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T28-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T28-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T29-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T29-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T29-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T29-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T29-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T3-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T3-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T3-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T3-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T3-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T30-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T30-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T30-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T30-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T30-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T31-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T31-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T31-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T31-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T31-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T32-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T32-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T32-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T32-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T32-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T33-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T33-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T33-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T33-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T33-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T34-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T34-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T34-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T34-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T34-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T35-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T35-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T35-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T35-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T35-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T36-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T36-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T36-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T36-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T36-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T37-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T37-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T37-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T37-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T37-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T38-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T38-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T38-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T38-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T38-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T39-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T39-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T39-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T39-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T39-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T4-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T4-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T4-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T4-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T4-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T40-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T40-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T40-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T40-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T40-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T5-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T5-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T5-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T5-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T5-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T6-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T6-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T6-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T6-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T6-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T7-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T7-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T7-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T7-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T7-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T8-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T8-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T8-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T8-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T8-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T9-0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T9-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T9-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T9-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/img/T9-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/jiangli.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/no.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/taiyang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/timg.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/yes.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(3个选项)/混合模板.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cogMould/html/混合模板(2个选项)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(2个选项)/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T1-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T1-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T1-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T1-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T1-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T1-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T1-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T1-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T1-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T1-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T10-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T10-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T10-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T10-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T10-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T10-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T10-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T10-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T10-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T10-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T11-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T11-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T11-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T11-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T11-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T11-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T11-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T11-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T11-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T11-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T12-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T12-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T12-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T12-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T12-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T12-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T12-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T12-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T12-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T12-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T13-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T13-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T13-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T13-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T13-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T13-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T13-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T13-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T13-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T13-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T14-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T14-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T14-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T14-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T14-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T14-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T14-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T14-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T14-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T14-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T15-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T15-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T15-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T15-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T15-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T15-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T15-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T15-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T15-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T15-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T16-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T16-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T16-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T16-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T16-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T16-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T16-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T16-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T16-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T16-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T17-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T17-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T17-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T17-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T17-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T17-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T17-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T17-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T17-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T17-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T18-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T18-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T18-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T18-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T18-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T18-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T18-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T18-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T18-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T18-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T19-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T19-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T19-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T19-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T19-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T19-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T19-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T19-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T19-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T19-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T2-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T2-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T2-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T2-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T2-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T2-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T2-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T2-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T2-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T2-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T20-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T20-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T20-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T20-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T20-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T20-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T20-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T20-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T20-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T20-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T21-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T21-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T21-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T21-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T21-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T21-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T21-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T21-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T21-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T21-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T22-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T22-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T22-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T22-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T22-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T22-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T22-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T22-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T22-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T22-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T23-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T23-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T23-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T23-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T23-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T23-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T23-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T23-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T23-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T23-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T24-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T24-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T24-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T24-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T24-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T24-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T24-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T24-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T24-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T24-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T25-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T25-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T25-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T25-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T25-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T25-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T25-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T25-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T25-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T25-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T26-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T26-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T26-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T26-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T26-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T26-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T26-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T26-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T26-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T26-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T27-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T27-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T27-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T27-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T27-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T27-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T27-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T27-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T27-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T27-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T28-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T28-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T28-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T28-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T28-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T28-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T28-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T28-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T28-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T28-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T29-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T29-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T29-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T29-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T29-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T29-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T29-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T29-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T29-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T29-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T3-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T3-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T3-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T3-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T3-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T3-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T3-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T3-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T3-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T3-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T30-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T30-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T30-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T30-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T30-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T30-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T30-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T30-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T30-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T30-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T31-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T31-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T31-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T31-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T31-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T31-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T31-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T31-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T31-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T31-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T32-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T32-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T32-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T32-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T32-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T32-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T32-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T32-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T32-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T32-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T33-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T33-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T33-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T33-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T33-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T33-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T33-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T33-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T33-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T33-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T34-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T34-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T34-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T34-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T34-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T34-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T34-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T34-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T34-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T34-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T35-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T35-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T35-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T35-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T35-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T35-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T35-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T35-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T35-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T35-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T36-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T36-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T36-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T36-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T36-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T36-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T36-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T36-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T36-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T36-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T37-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T37-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T37-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T37-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T37-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T37-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T37-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T37-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T37-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T37-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T38-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T38-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T38-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T38-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T38-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T38-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T38-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T38-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T38-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T38-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T39-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T39-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T39-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T39-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T39-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T39-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T39-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T39-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T39-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T39-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T4-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T4-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T4-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T4-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T4-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T4-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T4-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T4-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T4-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T4-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T40-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T40-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T40-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T40-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T40-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T40-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T40-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T40-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T40-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T40-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T5-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T5-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T5-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T5-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T5-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T5-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T5-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T5-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T5-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T5-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T6-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T6-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T6-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T6-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T6-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T6-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T6-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T6-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T6-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T6-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T7-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T7-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T7-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T7-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T7-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T7-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T7-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T7-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T7-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T7-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T8-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T8-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T8-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T8-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T8-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T8-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T8-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T8-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T8-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T8-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T9-0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T9-0.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T9-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T9-1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T9-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T9-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T9-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T9-3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/T9-4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/cogMould/html/混合模板(3个选项)/img/T9-4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/img/sy1.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/bj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/jiangli.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/kaishi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/no.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/xiao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/xuanxiang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/yes.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/yun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/混合模板.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(4个选项)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(4个选项)/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -534,7 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/trainingMould/html/混合模板（题目图片加文字4个选项）" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -545,6 +50,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zhouyingyu\project\mould\trainingMould\html\混合模板（题目图片加文字4个选项）" />
+      <recent name="D:\zhouyingyu\project\mould\trainingMould\html\题目文字加图片（图片正方形）2个选项" />
       <recent name="D:\zhouyingyu\project\mould\trainingMould\html" />
       <recent name="D:\zhouyingyu\project\mould\cogMould\html" />
     </key>
@@ -587,7 +94,11 @@
       <workItem from="1577084213463" duration="6783000" />
       <workItem from="1577092792344" duration="1816000" />
       <workItem from="1577156126779" duration="2111000" />
-      <workItem from="1577498230982" duration="1609000" />
+      <workItem from="1577498230982" duration="5161000" />
+      <workItem from="1577668346795" duration="7702000" />
+      <workItem from="1577871602060" duration="625000" />
+      <workItem from="1577930890572" duration="15847000" />
+      <workItem from="1578049591920" duration="6373000" />
     </task>
     <task id="LOCAL-00001" summary="更新模板">
       <created>1576239832717</created>
@@ -603,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577088103871</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="更新模板">
+      <created>1577500300133</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577500300133</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -614,21 +132,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="更新模板" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1577088103201">
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578054809428">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577088103201" />
-    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1577100318181">
+    <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1578054809428" />
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1577500297221">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577100318181" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577500297221" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1577935510287">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577935510287" />
     <state x="144" y="0" key="SettingsEditor" timestamp="1576831819802">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576831819802" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1577088106350">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1577500306059">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577088106350" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577500306059" />
   </component>
 </project>
