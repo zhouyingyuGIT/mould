@@ -110,30 +110,100 @@
 <script>
     $(function () {
         var data=[
-            {"ID":"1","ans":"B","TU":"54+52-16=?","TAU":"true","A":"A","ATU":"81","ATAU":"true","B":"B","BTU":"90","BTAU":"true","C":"C","CTU":"80","CTAU":"true","D":"D","DTU":"100","DTAU":"true","ABCDTAU":"true"},
-            {"ID":"2","ans":"B","TU":"35+42-23=?","TAU":"true","A":"A","ATU":"52","ATAU":"true","B":"B","BTU":"54","BTAU":"true","C":"C","CTU":"53","CTAU":"true","D":"D","DTU":"64","DTAU":"true","ABCDTAU":"true"},
-            {"ID":"3","ans":"C","TU":"16-10+25=?","TAU":"true","A":"A","ATU":"30","ATAU":"true","B":"B","BTU":"39","BTAU":"true","C":"C","CTU":"31","CTAU":"true","D":"D","DTU":"img/T12-1.jpg","DTAU":"false","ABCDTAU":"true"},
-            {"ID":"4","ans":"D","TU":"30-15+20=?","TAU":"true","A":"A","ATU":"30","ATAU":"true","B":"B","BTU":"img/T12-1.jpg","BTAU":"false","C":"C","CTU":"45","CTAU":"true","D":"D","DTU":"35","DTAU":"true","ABCDTAU":"true"},
-            {"ID":"5","ans":"A","TU":"50+70-30=?","TAU":"true","A":"A","ATU":"90","ATAU":"true","B":"B","BTU":"80","BTAU":"true","C":"C","CTU":"81","CTAU":"true","D":"D","DTU":"100","DTAU":"true","ABCDTAU":"true"},
-            {"ID":"6","ans":"B","TU":"60+22-32=?","TAU":"true","A":"A","ATU":"51","ATAU":"true","B":"B","BTU":"50","BTAU":"true","C":"C","CTU":"img/T12-1.jpg","CTAU":"false","D":"D","DTU":"60","DTAU":"true","ABCDTAU":"true"},
-            {"ID":"7","ans":"C","TU":"522+156-312=?","TAU":"true","A":"A","ATU":"img/T12-1.jpg","ATAU":"false","B":"B","BTU":"356","BTAU":"true","C":"C","CTU":"366","CTAU":"true","D":"D","DTU":"360","DTAU":"true","ABCDTAU":"true"},
-            {"ID":"8","ans":"A","TU":"878-666+266=?","TAU":"true","A":"A","ATU":"478","ATAU":"true","B":"B","BTU":"468","BTAU":"true","C":"C","CTU":"480","CTAU":"true","D":"D","DTU":"469","DTAU":"true","ABCDTAU":"true"},
-            {"ID":"9","ans":"D","TU":"789+101-310=?","TAU":"true","A":"A","ATU":"380","ATAU":"true","B":"B","BTU":"368","BTAU":"true","C":"C","CTU":"370","CTAU":"true","D":"D","DTU":"378","DTAU":"true","ABCDTAU":"true"},
-            {"ID":"10","ans":"C","TU":"304-104+232=?","TAU":"true","A":"A","ATU":"430","ATAU":"true","B":"B","BTU":"422","BTAU":"true","C":"C","CTU":"432","CTAU":"true","D":"D","DTU":"420","DTAU":"true","ABCDTAU":"true"},
-            {"ID":"12","ans":"D","TU":"img/T12-0.jpg","TAU":"false","A":"A","ATU":"img/T12-1.jpg","ATAU":"false","B":"B","BTU":"img/T12-2.jpg","BTAU":"false","C":"C","CTU":"img/T12-3.jpg","CTAU":"false","D":"D","DTU":"img/T12-4.jpg","DTAU":"false","ABCDTAU":"false"},
-            {"ID":"13","ans":"B","TU":"img/T13-0.jpg","TAU":"false","A":"A","ATU":"img/T13-1.jpg","ATAU":"false","B":"B","BTU":"img/T13-2.jpg","BTAU":"false","C":"C","CTU":"img/T13-3.jpg","CTAU":"false","D":"D","DTU":"img/T13-4.jpg","DTAU":"false","ABCDTAU":"false"},
-            {"ID":"14","ans":"A","TU":"img/T14-0.jpg","TAU":"false","A":"A","ATU":"img/T14-1.jpg","ATAU":"false","B":"B","BTU":"img/T14-2.jpg","BTAU":"false","C":"C","CTU":"img/T14-3.jpg","CTAU":"false","D":"D","DTU":"img/T14-4.jpg","DTAU":"false","ABCDTAU":"false"},
-            {"ID":"15","ans":"A","TU":"img/T15-0.jpg","TAU":"false","A":"A","ATU":"img/T15-1.jpg","ATAU":"false","B":"B","BTU":"img/T15-2.jpg","BTAU":"false","C":"C","CTU":"img/T15-3.jpg","CTAU":"false","D":"D","DTU":"img/T15-4.jpg","DTAU":"false","ABCDTAU":"false"},
-            {"ID":"16","ans":"D","TU":"img/T16-0.jpg","TAU":"false","A":"A","ATU":"img/T16-1.jpg","ATAU":"false","B":"B","BTU":"img/T16-2.jpg","BTAU":"false","C":"C","CTU":"img/T16-3.jpg","CTAU":"false","D":"D","DTU":"img/T16-4.jpg","DTAU":"false","ABCDTAU":"false"},
-            {"ID":"17","ans":"C","TU":"img/T17-0.jpg","TAU":"false","A":"A","ATU":"img/T17-1.jpg","ATAU":"false","B":"B","BTU":"img/T17-2.jpg","BTAU":"false","C":"C","CTU":"img/T17-3.jpg","CTAU":"false","D":"D","DTU":"img/T17-4.jpg","DTAU":"false","ABCDTAU":"false"},
-            {"ID":"18","ans":"B","TU":"img/T18-0.jpg","TAU":"false","A":"A","ATU":"img/T18-1.jpg","ATAU":"false","B":"B","BTU":"img/T18-2.jpg","BTAU":"false","C":"C","CTU":"img/T18-3.jpg","CTAU":"false","D":"D","DTU":"img/T18-4.jpg","DTAU":"false","ABCDTAU":"false"},
-            {"ID":"19","ans":"D","TU":"img/T19-0.jpg","TAU":"false","A":"A","ATU":"img/T19-1.jpg","ATAU":"false","B":"B","BTU":"img/T19-2.jpg","BTAU":"false","C":"C","CTU":"img/T19-3.jpg","CTAU":"false","D":"D","DTU":"img/T19-4.jpg","DTAU":"false","ABCDTAU":"false"},
-            {"ID":"20","ans":"A","TU":"img/T20-0.jpg","TAU":"false","A":"A","ATU":"img/T20-1.jpg","ATAU":"false","B":"B","BTU":"img/T20-2.jpg","BTAU":"false","C":"C","CTU":"img/T20-3.jpg","CTAU":"false","D":"D","DTU":"img/T20-4.jpg","DTAU":"false","ABCDTAU":"false"},
-            {"ID":"21","ans":"A","TU":"img/T21-0.jpg","TAU":"false","A":"A","ATU":"img/T21-1.jpg","ATAU":"false","B":"B","BTU":"img/T21-2.jpg","BTAU":"false","C":"C","CTU":"img/T21-3.jpg","CTAU":"false","D":"D","DTU":"img/T21-4.jpg","DTAU":"false","ABCDTAU":"false"}
+            {"ID":"1","ans":"P","TU":"img/101.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"2","ans":"Q","TU":"img/102.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"3","ans":"P","TU":"img/103.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"4","ans":"Q","TU":"img/104.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"5","ans":"Q","TU":"img/105.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"6","ans":"P","TU":"img/106.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"7","ans":"Q","TU":"img/107.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"8","ans":"Q","TU":"img/108.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"9","ans":"Q","TU":"img/109.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"10","ans":"Q","TU":"img/110.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"11","ans":"P","TU":"img/111.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"12","ans":"Q","TU":"img/112.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"13","ans":"Q","TU":"img/113.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"14","ans":"P","TU":"img/114.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"15","ans":"Q","TU":"img/115.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"16","ans":"P","TU":"img/116.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"17","ans":"P","TU":"img/117.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"18","ans":"Q","TU":"img/118.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"19","ans":"P","TU":"img/119.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"20","ans":"P","TU":"img/120.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"21","ans":"Q","TU":"img/121.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"22","ans":"P","TU":"img/122.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"23","ans":"P","TU":"img/123.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"24","ans":"Q","TU":"img/124.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"25","ans":"P","TU":"img/125.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"26","ans":"P","TU":"img/126.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"27","ans":"P","TU":"img/127.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"28","ans":"Q","TU":"img/128.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"29","ans":"Q","TU":"img/129.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"30","ans":"P","TU":"img/130.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"31","ans":"Q","TU":"img/131.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"32","ans":"P","TU":"img/132.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"33","ans":"Q","TU":"img/133.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"34","ans":"P","TU":"img/134.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"35","ans":"P","TU":"img/135.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"36","ans":"Q","TU":"img/136.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"37","ans":"P","TU":"img/137.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"38","ans":"Q","TU":"img/138.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"39","ans":"Q","TU":"img/139.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"40","ans":"Q","TU":"img/140.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"41","ans":"Q","TU":"img/141.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"42","ans":"Q","TU":"img/142.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"43","ans":"P","TU":"img/143.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"44","ans":"Q","TU":"img/144.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"45","ans":"Q","TU":"img/145.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"46","ans":"P","TU":"img/146.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"47","ans":"P","TU":"img/147.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"48","ans":"Q","TU":"img/148.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"49","ans":"Q","TU":"img/149.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"50","ans":"Q","TU":"img/150.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"51","ans":"P","TU":"img/151.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"52","ans":"Q","TU":"img/152.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"53","ans":"Q","TU":"img/153.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"54","ans":"Q","TU":"img/154.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"55","ans":"P","TU":"img/155.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"56","ans":"Q","TU":"img/156.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"57","ans":"Q","TU":"img/157.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"58","ans":"P","TU":"img/158.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"59","ans":"Q","TU":"img/159.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"60","ans":"P","TU":"img/160.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"61","ans":"P","TU":"img/161.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"62","ans":"P","TU":"img/162.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"63","ans":"P","TU":"img/163.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"64","ans":"P","TU":"img/164.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"65","ans":"Q","TU":"img/165.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"66","ans":"Q","TU":"img/166.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"67","ans":"P","TU":"img/167.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"68","ans":"Q","TU":"img/168.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"69","ans":"Q","TU":"img/169.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"70","ans":"Q","TU":"img/170.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"71","ans":"P","TU":"img/171.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"72","ans":"P","TU":"img/172.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"73","ans":"P","TU":"img/173.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"74","ans":"Q","TU":"img/174.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"75","ans":"Q","TU":"img/175.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"76","ans":"P","TU":"img/176.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"77","ans":"P","TU":"img/177.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"78","ans":"Q","TU":"img/178.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"79","ans":"P","TU":"img/179.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"80","ans":"P","TU":"img/180.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"81","ans":"P","TU":"img/181.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"82","ans":"Q","TU":"img/182.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"83","ans":"P","TU":"img/183.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"84","ans":"Q","TU":"img/184.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"85","ans":"Q","TU":"img/185.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"86","ans":"P","TU":"img/186.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"87","ans":"P","TU":"img/187.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"88","ans":"P","TU":"img/188.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"89","ans":"Q","TU":"img/189.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"},
+            {"ID":"90","ans":"P","TU":"img/190.png","TAU":"false","A":"P","ATU":"错误","ATAU":"true","B":"Q","BTU":"正确","BTAU":"true"}
         ];
         var data_index=0,data_click=false,correct_number=0,great=0,data_number=0;
         var time,beginTime,endTime;
-        var maxtime=10,timer=null,mouldTime;
+        var maxtime=30,timer=null,mouldTime;
         var time1=1500,timer1=null,type4Num="0";
         var type4set=[],stimidset=[],correctanswerset=[],buttonset=[],timeset=[],topicArr=[],commentset=[],ansText=[],buttonsetText=[];
         var ansTAUArr=[],xtauArr=[],tauArr=[];
@@ -178,11 +248,11 @@
         }
         function textFun(ans, ans1) {
             if(ans == "Q"){
-                ansText.push(data[data_index].QTU);
-                ansTAUArr.push(data[data_index].QTAU);
+                ansText.push(data[data_index].ATU);
+                ansTAUArr.push(data[data_index].ATAU);
             }else if(ans=="P"){
-                ansText.push(data[data_index].PTU);
-                ansTAUArr.push(data[data_index].PTAU);
+                ansText.push(data[data_index].BTU);
+                ansTAUArr.push(data[data_index].BTAU);
             }else if(ans=="A"){
                 ansText.push(data[data_index].ATU);
                 ansTAUArr.push(data[data_index].ATAU);
@@ -203,11 +273,11 @@
                 ansTAUArr.push(data[data_index].FTAU);
             }
             if(ans1 == "Q"){
-                buttonsetText.push(data[data_index].QTU);
-                xtauArr.push(data[data_index].QTAU);
+                buttonsetText.push(data[data_index].ATU);
+                xtauArr.push(data[data_index].ATAU);
             }else if(ans1=="P"){
-                buttonsetText.push(data[data_index].PTU);
-                xtauArr.push(data[data_index].PTAU);
+                buttonsetText.push(data[data_index].BTU);
+                xtauArr.push(data[data_index].BTAU);
             }else if(ans1=="A"){
                 buttonsetText.push(data[data_index].ATU);
                 xtauArr.push(data[data_index].ATAU);
@@ -258,7 +328,6 @@
             // $(".item2_item img").removeClass("revolve");
             var ans=data[data_index].ans;
             var ans1=key;
-            console.log(ans1+","+ans);
             stimidset.push(data[data_index].ID);
             type4set.push(type4Num);
             topicArr.push(data[data_index].TU);
@@ -267,6 +336,7 @@
             buttonset.push(ans1);
             timeset.push(time);
             textFun(ans, ans1);
+            console.log(ans+","+ans1)
             $("#item2").addClass("op");
             if(ans1 == ans){
                 correct_number++;
@@ -318,6 +388,9 @@
             $("#item3").removeClass("hide");
         }
         function topicResultFun(arr) {
+            console.log(tauArr)
+            console.log(ansTAUArr)
+            console.log(xtauArr)
             for (var i = 0; i < arr.length; i++) {
                 var topicCon,ansCon,buttonsetCon;
                 if(tauArr[i] == "true"){

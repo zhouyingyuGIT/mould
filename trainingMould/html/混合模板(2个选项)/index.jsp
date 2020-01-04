@@ -219,11 +219,11 @@
         }
         function textFun(ans, ans1) {
             if(ans == "Q"){
-                ansText.push(data[data_index].QTU);
-                ansTAUArr.push(data[data_index].QTAU);
+                ansText.push(data[data_index].BTU);
+                ansTAUArr.push(data[data_index].BTAU);
             }else if(ans=="P"){
-                ansText.push(data[data_index].PTU);
-                ansTAUArr.push(data[data_index].PTAU);
+                ansText.push(data[data_index].ATU);
+                ansTAUArr.push(data[data_index].ATAU);
             }else if(ans=="A"){
                 ansText.push(data[data_index].ATU);
                 ansTAUArr.push(data[data_index].ATAU);
@@ -244,11 +244,11 @@
                 ansTAUArr.push(data[data_index].FTAU);
             }
             if(ans1 == "Q"){
-                buttonsetText.push(data[data_index].QTU);
-                xtauArr.push(data[data_index].QTAU);
+                buttonsetText.push(data[data_index].BTU);
+                xtauArr.push(data[data_index].BTAU);
             }else if(ans1=="P"){
-                buttonsetText.push(data[data_index].PTU);
-                xtauArr.push(data[data_index].PTAU);
+                buttonsetText.push(data[data_index].ATU);
+                xtauArr.push(data[data_index].ATAU);
             }else if(ans1=="A"){
                 buttonsetText.push(data[data_index].ATU);
                 xtauArr.push(data[data_index].ATAU);
