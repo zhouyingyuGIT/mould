@@ -1,22 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c16950f-5b27-41e7-83b5-ed40a748305c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/bj.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/jiangli.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/kaishi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/no.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/xiao.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/xuanxiang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/yes.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/yun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trainingMould/html/training模板（题目图片加文字4个文字选项）/混合模板.xlsx" afterDir="false" />
+    <list default="true" id="1c16950f-5b27-41e7-83b5-ed40a748305c" name="Default Changelist" comment="更新模板">
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/bj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/166.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/177.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/211.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/233.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/244.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/255.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/26.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/266.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/311.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/322.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/333.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/344.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/355.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/36.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/366.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/371.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/41.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/45.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/511.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/522.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/533.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/544.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/555.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/566.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/61.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/62.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/63.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/633.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/64.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/65.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/655.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/img/66.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/jiangli.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/no.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/taiyang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/yes.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cogMould/html/training题2张图片选项图片(6个选项)/图形的运动.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training题2张图片选项图片(6个选项)/bj.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training题2张图片选项图片(6个选项)/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training题2张图片选项图片(6个选项)/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training题2张图片选项图片(6个选项)/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training题2张图片选项图片(6个选项)/jiangli.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training题2张图片选项图片(6个选项)/no.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training题2张图片选项图片(6个选项)/taiyang.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training题2张图片选项图片(6个选项)/timg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainingMould/html/training题2张图片选项图片(6个选项)/yes.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(2个选项)/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(4个选项)/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(4个选项)/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/trainingMould/html/混合模板(4个选项)/混合模板.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/trainingMould/html/混合模板(4个选项)/混合模板.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +104,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1UgxfQgaEx1fGlkepLPntTx0uh8" />
   <component name="ProjectLevelVcsManager">
@@ -39,7 +119,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/trainingMould/html/混合模板（题目图片加文字4个选项）" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -50,10 +130,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\zhouyingyu\project\mould\cogMould\html" />
+      <recent name="D:\zhouyingyu\project\mould\trainingMould\html" />
       <recent name="D:\zhouyingyu\project\mould\trainingMould\html\混合模板（题目图片加文字4个选项）" />
       <recent name="D:\zhouyingyu\project\mould\trainingMould\html\题目文字加图片（图片正方形）2个选项" />
-      <recent name="D:\zhouyingyu\project\mould\trainingMould\html" />
-      <recent name="D:\zhouyingyu\project\mould\cogMould\html" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -99,6 +179,11 @@
       <workItem from="1577871602060" duration="625000" />
       <workItem from="1577930890572" duration="15847000" />
       <workItem from="1578049591920" duration="6373000" />
+      <workItem from="1578058456320" duration="158000" />
+      <workItem from="1578138720189" duration="850000" />
+      <workItem from="1578359606363" duration="2342000" />
+      <workItem from="1578386921144" duration="1863000" />
+      <workItem from="1578622785197" duration="14186000" />
     </task>
     <task id="LOCAL-00001" summary="更新模板">
       <created>1576239832717</created>
@@ -121,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577500300133</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="更新模板">
+      <created>1578058510713</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1578058510713</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -136,21 +228,29 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="371" y="90" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1578054809428" />
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1577500297221">
+    <state x="263" y="0" width="985" height="680" key="CommitChangelistDialog2" timestamp="1578359760315">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1577500297221" />
-    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1577935510287">
+    <state x="263" y="0" width="985" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1578359760315" />
+    <state x="421" y="99" key="FileChooserDialogImpl" timestamp="1578360150924">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1577935510287" />
+    <state x="421" y="99" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578360150924" />
     <state x="144" y="0" key="SettingsEditor" timestamp="1576831819802">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1576831819802" />
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1577500306059">
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2" timestamp="1578058516877">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1577500306059" />
+    <state x="233" y="77" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1578058516877" />
+    <state x="439" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578359764629">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="439" y="259" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1578359764629" />
+    <state x="345" y="143" key="git4idea.merge.GitPullDialog" timestamp="1578359735998">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="345" y="143" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1578359735998" />
   </component>
 </project>
